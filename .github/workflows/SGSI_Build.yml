@@ -6,11 +6,11 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://hugeota.d.miui.com/21.5.31/miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'http://bigota.d.miui.com/V12.5.14.0.RKHCNXM/miui_ALIOTH_V12.5.14.0.RKHCNXM_e26ddc755f_11.0.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'miui_ALIOTH_V12.5.14.0.RKHCNXM_e26ddc755f_11.0.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
